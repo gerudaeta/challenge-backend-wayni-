@@ -1,0 +1,50 @@
+<root>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <data name="ListaVacia" xml:space="preserve">
+        <value>Lista vacía de formas!</value>
+    </data>
+    <data name="ReporteEncabezado" xml:space="preserve">
+        <value>Reporte de Formas</value>
+    </data>
+    <data name="Area" xml:space="preserve">
+        <value>Area</value>
+    </data>
+    <data name="Perimetro" xml:space="preserve">
+        <value>Perimeter</value>
+    </data>
+    <data name="Total" xml:space="preserve">
+        <value>Total</value>
+    </data>
+    <data name="Formas" xml:space="preserve">
+        <value>Shapes</value>
+    </data>
+    <data name="Cuadrado_Singular" xml:space="preserve">
+        <value>Square</value>
+    </data>
+    <data name="Cuadrado_Plural" xml:space="preserve">
+        <value>Squares</value>
+    </data>
+    <data name="Circulo_Plural" xml:space="preserve">
+        <value>Circles</value>
+    </data>
+    <data name="Circulo_Singular" xml:space="preserve">
+        <value>Circle</value>
+    </data>
+    <data name="TrianguloEquilatero_Singular" xml:space="preserve">
+        <value>Triangle</value>
+    </data>
+    <data name="TrianguloEquilatero_Plural" xml:space="preserve">
+        <value>Triangles</value>
+    </data>
+</root>

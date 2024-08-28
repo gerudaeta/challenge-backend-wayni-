@@ -7,6 +7,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingChallenge.Data", "Cod
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingChallenge.Data.Tests", "CodingChallenge.Data.Tests\CodingChallenge.Data.Tests.csproj", "{CAC2DC96-0AEF-48C0-A6E4-07EF206B860A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingChallenge.Domain", "CodingChallenge.Domain\CodingChallenge.Domain.csproj", "{6843685F-5ED5-4C66-80DC-44B82C49DB9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingChallenge.Api", "CodingChallenge.Api\CodingChallenge.Api.csproj", "{1561387F-535D-4EF5-906B-D14B0E392AC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingChallenge.Services", "CodingChallenge.Services\CodingChallenge.Services.csproj", "{717AE16E-6EE9-4D5F-A8E2-09E64D936FC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingChallenge.Resources", "CodingChallenge.Resources\CodingChallenge.Resources.csproj", "{16213004-C4F8-438E-B817-4A8C09333ABD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingChallenge.Services.Tests", "CodingChallenge.Services.Tests\CodingChallenge.Services.Tests.csproj", "{A096BDD7-B2FC-4FB1-AE7A-5603C201F8F0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +31,26 @@ Global
 		{CAC2DC96-0AEF-48C0-A6E4-07EF206B860A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CAC2DC96-0AEF-48C0-A6E4-07EF206B860A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CAC2DC96-0AEF-48C0-A6E4-07EF206B860A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6843685F-5ED5-4C66-80DC-44B82C49DB9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6843685F-5ED5-4C66-80DC-44B82C49DB9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6843685F-5ED5-4C66-80DC-44B82C49DB9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6843685F-5ED5-4C66-80DC-44B82C49DB9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1561387F-535D-4EF5-906B-D14B0E392AC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1561387F-535D-4EF5-906B-D14B0E392AC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1561387F-535D-4EF5-906B-D14B0E392AC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1561387F-535D-4EF5-906B-D14B0E392AC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{717AE16E-6EE9-4D5F-A8E2-09E64D936FC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{717AE16E-6EE9-4D5F-A8E2-09E64D936FC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{717AE16E-6EE9-4D5F-A8E2-09E64D936FC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{717AE16E-6EE9-4D5F-A8E2-09E64D936FC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16213004-C4F8-438E-B817-4A8C09333ABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16213004-C4F8-438E-B817-4A8C09333ABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16213004-C4F8-438E-B817-4A8C09333ABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16213004-C4F8-438E-B817-4A8C09333ABD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A096BDD7-B2FC-4FB1-AE7A-5603C201F8F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A096BDD7-B2FC-4FB1-AE7A-5603C201F8F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A096BDD7-B2FC-4FB1-AE7A-5603C201F8F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A096BDD7-B2FC-4FB1-AE7A-5603C201F8F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
